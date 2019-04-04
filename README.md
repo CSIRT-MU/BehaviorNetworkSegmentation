@@ -14,6 +14,7 @@ Network segmentation is a powerful tool for network defense. In contemporary com
 * Matplotlib (https://matplotlib.org/)
 * Seaborn (https://seaborn.pydata.org/)
 * Scikit-learn (http://scikit-learn.org/)
+* imbalanced-learn (https://pypi.org/project/imbalanced-learn/)
 
 ## Analyses
 
