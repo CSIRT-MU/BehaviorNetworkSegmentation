@@ -23,3 +23,4 @@ Analyses are present in __analyses__ directory. To run an analysis yourself, you
 
 ## Acknowledgement
 
+This research was supported by the Technology Agency of the Czech Republic under No. TA04010062 "Research and Development of Advanced Analytics Tools for Security and Performance Analysis of Network Infrastructure, Applications and Services". 
