@@ -1,6 +1,6 @@
 # Analyses 
 
-This folder contains folders with following analyses:
+This folder contains subfolders with following analyses:
 
 ## Dataset preprocessing
 
