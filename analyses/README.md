@@ -11,8 +11,7 @@ These notebooks include required dataset preprocessing needed to be done before 
 
 ## Network Segment Discovery
 
-* **K-means** - includes K-means clustering notebooks on all subnets, selected subents, and binary clustering.  
-* **K-means_LB_Keogh** - includes K-means clustering with LB-Keogh measure as distance metrics. Notebooks include clustering on all subnets, selected subents, and binary clustering
+* **K-means_LB_Keogh** - includes K-means clustering with and also without LB-Keogh measure as distance metrics. Notebooks include clustering on all subnets, selected subents, and binary clustering
 * **DBSCAN** - includes density-based spatial clustering of applications with noise on all subnets, selected subents, and binary clustering.
 
 ## Network Segment Assignment
