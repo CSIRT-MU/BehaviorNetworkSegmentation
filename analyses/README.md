@@ -4,7 +4,7 @@ This folder contains subfolders with following analyses:
 
 ## Dataset preprocessing
 
-These notebooks include required dataset preprocessing needed to be done before analyses are executed.
+These notebooks include required dataset preprocessing needed to be done in listed order before analyses are executed and after dataset has been fetched.
 
 * `Dataset_preprocessing.ipynb` - includes steps for dataset preprocessing such as missing value handling, outlier removal, etc.
 * `Balancing_dataset.ipynb` - includes steps for dataset balancing - undersampling of the majority class.
