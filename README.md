@@ -17,9 +17,34 @@ Network segmentation is a powerful tool for network defense. In contemporary com
 * imbalanced-learn (https://pypi.org/project/imbalanced-learn/)
 * Cython (http://docs.cython.org/en/latest/index.html)
 
-## Analyses
 
-Analyses are present in __analyses__ directory. To run an analysis yourself, you need to start your own Jupyter notebook session and load selected analysis.
+## Setup
+
+1) 1) Go to `dataset/` directory 
+    ```
+    $ cd dataset/
+    ```
+
+2) Download dataset from [Zenodo webpage](https://zenodo.org/record/2669079) to `datset/` folder
+    ```
+    $ wget https://zenodo.org/record/2669079/files/host-network-traffic-time-series-2019-01-annon.csv
+     ```
+ 
+3) Go to `analyses/` directory
+   ```
+    $ cd analyses/
+   ```
+4) Run Jupyter notebook
+    ```
+    $ jupyter notebook
+    ```
+
+5) Run `Dataset_preprocessing.ipynb` to preprocess dataset
+
+6) Run `Balancing_dataset.ipynp` to prepare balanced dataset
+
+7) Run any of the analyses present in folders. 
+
 
 ## Acknowledgement
 
