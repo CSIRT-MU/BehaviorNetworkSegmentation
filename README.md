@@ -43,7 +43,7 @@ Network segmentation is a powerful tool for network defense. In contemporary com
 
 6) Run `Balancing_dataset.ipynp` to prepare balanced dataset
 
-7) Run any of the analyses present in folders. 
+7) Run any of the analysis present in folders. 
 
 
 ## Acknowledgement
