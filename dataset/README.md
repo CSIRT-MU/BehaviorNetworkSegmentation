@@ -4,7 +4,7 @@
 
 The dataset is available for download at [Zenodo](https://zenodo.org/).
 
-###Download and setup
+### Download and setup
 
 1) Go to ~/dataset/ directory in git repository
 ```
