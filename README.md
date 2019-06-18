@@ -25,7 +25,7 @@ Network segmentation is a powerful tool for network defense. In contemporary com
     $ cd dataset/
     ```
 
-2) Download dataset from [Zenodo webpage](https://zenodo.org/record/2669079) to `datset/` folder
+2) Download dataset from [Zenodo webpage](https://zenodo.org/record/2669079) to `dataset/` folder
     ```
     $ wget https://zenodo.org/record/2669079/files/host-network-traffic-time-series-2019-01-annon.csv
      ```
