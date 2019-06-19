@@ -43,7 +43,14 @@ Network segmentation is a powerful tool for network defense. In contemporary com
 
 6) Run `Balancing_dataset.ipynp` to prepare balanced dataset
 
-7) Run any of the analysis present in folders. 
+7) Go to `DTW_LB_Keogh/` directory
+   ```
+    $ cd DTW_LB_Keogh/
+   ```
+
+8) Run `DTW_module.ipynb`. Rename generated **.so** file to **DTW.so** and copy this file into `analyses/KNN_LB_Keogh/` and `analyses/K-Means/` directories
+
+9) Run any of the analysis present in folders. 
 
 
 ## Acknowledgement
