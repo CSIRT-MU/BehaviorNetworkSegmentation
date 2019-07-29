@@ -55,4 +55,4 @@ Network segmentation is a powerful tool for network defense. In contemporary com
 
 ## Acknowledgement
 
-This research was supported by the Technology Agency of the Czech Republic under No. TA04010062 "Research and Development of Advanced Analytics Tools for Security and Performance Analysis of Network Infrastructure, Applications and Services". 
+This research was supported by ERDF "[CyberSecurity, CyberCrime and Critical Information Infrastructures Center of Excellence](https://www.muni.cz/en/research/projects/41145)" (No. CZ.02.1.01/0.0/0.0/16\_019/0000822).  
