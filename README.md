@@ -52,6 +52,31 @@ Network segmentation is a powerful tool for network defense. In contemporary com
 
 9) Run any of the analysis present in folders. 
 
+## How to cite
+
+Juraj Smeriga and Tomas Jirsik. 2019. Behavior-Aware Network Segmentation using IP Flows. In Proceedings of the 14th International Conference on Availability, Reliability and Security (ARES '19). ACM, New York, NY, USA, Article 5, 9 pages. DOI: https://doi.org/10.1145/3339252.3339265 
+
+**Bibtex**
+
+```
+@inproceedings{Smeriga:2019:BNS:3339252.3339265,
+ author = {Smeriga, Juraj and Jirsik, Tomas},
+ title = {Behavior-Aware Network Segmentation Using IP Flows},
+ booktitle = {Proceedings of the 14th International Conference on Availability, Reliability and Security},
+ series = {ARES '19},
+ year = {2019},
+ isbn = {978-1-4503-7164-3},
+ location = {Canterbury, CA, United Kingdom},
+ pages = {5:1--5:9},
+ articleno = {5},
+ numpages = {9},
+ url = {http://doi.acm.org/10.1145/3339252.3339265},
+ doi = {10.1145/3339252.3339265},
+ acmid = {3339265},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 
+```
 
 ## Acknowledgement
 
