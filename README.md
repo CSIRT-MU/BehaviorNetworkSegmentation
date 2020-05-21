@@ -20,7 +20,7 @@ Network segmentation is a powerful tool for network defense. In contemporary com
 
 ## Setup
 
-1) 1) Go to `dataset/` directory 
+1) Go to `dataset/` directory 
     ```
     $ cd dataset/
     ```
